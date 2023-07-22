@@ -19,21 +19,67 @@ The Job Portal is built using [Django](https://www.djangoproject.com/), a high-l
 * <b>Applicants (How to use)</b>
 	- Upload your biodata along with your resume.
 	- Browse and apply to jobs. Will receive updates ab
-The commands for all these features can be retrieved by executing the ```!help``` command.
 
 # How to Use:
 The Job Portal can be installed locally by running the below command.
 
 ```git clone https://github.com/DipitPatowari/Django-Jobs```
 
-To use the Portal install the required dependencies:
-
+To use the Portal install the required dependencies.
 
 Ensure you have Python and Django installed, create a virtual environment, install dependencies, and run the necessary migrations. </br>
 Once the setup is complete, you can access the Job Portal through your local server.
 
 To start the Portal , type the following command in the terminal:
 ```python manage.py runserver```
+
+# Portal Features (Visuals): 
+
+* <b> Home Page </b>:</br>
+![homepage](https://github.com/Ayush-721/temp/assets/95296019/783a6233-a20e-409c-a69b-70a99b84dc74)</br></br></br>
+
+* <b> Search Jobs Filter </b></br>
+![searchjobfilter](https://github.com/Ayush-721/temp/assets/95296019/d6e0745b-e2c1-455a-ad6e-59259ef65951)</br></br></br>
+
+* <b> Sign Up Page </b>:</br>
+![image](https://github.com/Ayush-721/temp/assets/95296019/708b6017-99c3-470d-a5cf-5b817866be5c)</br></br></br>
+
+* <b> Two-Step Authentication of Users </b>:</br>
+![2stepauth](https://github.com/Ayush-721/temp/assets/95296019/f76d9584-e1bd-48a5-b2f4-46d115f2f9db)</br></br>
+![2stepverification](https://github.com/Ayush-721/temp/assets/95296019/1e4e0a45-c229-44f0-a4cb-24e8b8cb0b45)</br></br></br>
+
+* <b> Dashboard </b> : </br></br></br>
+  <b> Applicant </b></br>
+	![AppliDashboard](https://github.com/Ayush-721/temp/assets/95296019/934e71dd-3bab-4272-94d1-9442d3cc6972)</br></br>
+
+  <b> Recruiter </b></br>
+	![Recruiter_Dashboard](https://github.com/Ayush-721/temp/assets/95296019/7090922e-5d39-4854-9645-2c882db50630)</br></br></br>
+
+* <b> Create Resume Form: </b></br>
+![CReateResume](https://github.com/Ayush-721/temp/assets/95296019/2013c531-00a8-4540-abb6-a370a45d1c84)</br></br></br>
+
+* <b> Create Company Form: </b></br>
+![image](https://github.com/Ayush-721/temp/assets/95296019/a57855a6-794d-42ae-bfcf-9e11ada563bd)</br></br></br>
+
+
+* <b> All Available Jobs(For Applicants) </b></br>
+![image](https://github.com/Ayush-721/temp/assets/95296019/425c0f08-f9ec-4e0c-acf5-2bcb3a3b0bf1)</br></br></br>
+
+* <b> Job Details: </b></br>
+![jobdetails](https://github.com/Ayush-721/temp/assets/95296019/521c2626-3b2b-42ca-92c3-089b72d75d67)</br></br></br>
+
+* <b> Managing Jobs(For Recruiter) </b></br>
+![managejobs](https://github.com/Ayush-721/temp/assets/95296019/471e7057-ed5c-4a33-a85f-4c1e8e696e0c)</br></br></br>
+
+* <b> Accepting/Rejecting an Applicant </b></br>
+![acceptinguser](https://github.com/Ayush-721/temp/assets/95296019/0b123bca-040f-40b8-9fdb-d770e1e1da3b)</br></br></br>
+
+* <b> Notifications </b></br>
+	* <b>On Portal</b></br>
+ 		![notificationsjobs](https://github.com/Ayush-721/temp/assets/95296019/3c83ea37-6ca4-45f6-b895-3e5f69a74038)</br></br>
+   	* <b>Through Email</b></br>
+    		![Notifications_recruiter](https://github.com/Ayush-721/temp/assets/95296019/0ad0ffe4-dd64-4f1c-bf26-6868e8cd3593)</br></br></br>
+
 
 # Team:
 
